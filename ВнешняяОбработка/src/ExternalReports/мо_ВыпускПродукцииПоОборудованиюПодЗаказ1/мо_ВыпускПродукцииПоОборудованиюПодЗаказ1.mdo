@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="382299ae-a8a8-469a-a702-f91f3d85c869">
+  <producedTypes>
+    <objectType typeId="5645ba82-74ba-431d-86fb-da0cce322bdf" valueTypeId="b795787b-60cd-44a1-9447-1b3f9a272ab1"/>
+  </producedTypes>
+  <name>мо_ВыпускПродукцииПоОборудованиюПодЗаказ1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выпуск продукции по оборудованию под заказ (МО)</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="89276089-6a28-4be1-83cd-3284eff7715a"/>
+  <mainDataCompositionSchema>ExternalReport.мо_ВыпускПродукцииПоОборудованиюПодЗаказ1.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="8b77f735-134d-4b37-ae7b-c3f6b01bfbd5">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:ExternalReport>
